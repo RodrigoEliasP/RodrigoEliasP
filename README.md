@@ -1,4 +1,4 @@
-<h1 align="center">Olá meu nome é Rodrigo Elias 😎, Bem vindo à minha página do github!🎉 </h1>
+<h1 align="center">Olá meu nome é Rodrigo Elias 😎, Seja bem vindo ao meu github!🎉 </h1>
 <h2 align="center">Sobre mim</h2>
 <ul>
   <li>Comecei a aprender programação aos 14 anos com a linguagem C#</li>
@@ -17,7 +17,7 @@ Método | Contato
 
 Rede | Link
 ------------ | -------------
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | https://www.linkedin.com/in/rodrigo-elias-b37a351a3/
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  | https://www.linkedin.com/in/rodrigo-elias-b37a351a3/
 
 <h1  align="center">Skills</h1>
 
