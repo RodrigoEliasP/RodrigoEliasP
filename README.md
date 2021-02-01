@@ -19,4 +19,8 @@ Rede | Link
 ------------ | -------------
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | https://www.linkedin.com/in/rodrigo-elias-b37a351a3/
 
-<h1>Principais Linguagens</h1>
+<h1  align="center">Skills</h1>
+
+
+<img src="https://img.shields.io/badge/HTML-E96228?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
