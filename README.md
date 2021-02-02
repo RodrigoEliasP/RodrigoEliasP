@@ -23,18 +23,21 @@ Rede | Link
 
 <h1 align="center">Skills</h1>
 
-<h2 align="center">Conhecimento Bom</h2>
+<h2 align="center">⭐⭐⭐⭐</h2>
 
 ![HTML](https://img.shields.io/badge/HTML-E96228?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c%20sharp&logoColor=white)
 ![React.JS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+<h2 align="center">⭐⭐⭐</h2>
+
+![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c%20sharp&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-<h2 align="center">Conhecimento Fraco</h2>
+<h2 align="center">⭐</h2>
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
