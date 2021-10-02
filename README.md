@@ -2,7 +2,7 @@
 
 <h1 align="center">Sobre mim</h1>
 <p>
-Amo programar, entrei nesse mundo aos 14 anos fazendo aplicativos de terminal usando C#, mais tarde comecei a usar o C# para fazer aplicativos com mo windows forms e     aprendei junto dele PHP para fazer alguns sites usando programação funcional, aprendi POO com ambas linguagens e comecei a investir em JavaScript vanilla e aprender conceitos básicos de GIT, atualmente estou estagiando em uma startup onde trabalho principalmente com o backend serverless (Firebase Functions) e com o painel de administração em ReactJS, os dois usando TypeScripst junto de recursos do Firebase.
+Amo programar, entrei nesse mundo aos 14 anos fazendo aplicativos de terminal usando C#, mais tarde comecei a usar o C# para fazer aplicativos com mo windows forms e     aprendei junto dele PHP para fazer alguns sites usando programação funcional, aprendi POO com ambas linguagens e comecei a investir em JavaScript vanilla e aprender conceitos básicos de GIT. Atualmente estou estagiando em uma startup onde trabalho principalmente com o backend serverless (Firebase Functions) e com o painel de administração em ReactJS, os dois usando TypeScripst junto de recursos do Firebase.
 </p>
 
 <h2 align="center">Contatos 📢</h2>
