@@ -5,11 +5,6 @@
 Hi, I'm a young passionate programmer with a love for math and computers. If you're looking for a skilled developer, feel free to connect with me on LinkedIn or drop me an email!
 </p>
 
-<h2 align="center">Contact 📢</h2>
-
-You can reach me at: <br><br>
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:rodrigo.e2003@hotmail.com) 
-
 Let's connect:
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-elias-b37a351a3/)
