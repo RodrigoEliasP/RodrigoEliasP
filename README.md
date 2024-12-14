@@ -1,8 +1,15 @@
-<h1>Hy, my name is Rodrigo Elias 😎 and Welcome to my github profile!🎉 </h1>
+<h1>Hi, my name is Rodrigo Elias and Welcome to my github profile! </h1>
+
+<h1 align="center">About my carreer</h1>
+<p>
+I have been programming for about 7 years, 4 of which I have worked as a web Node.js and TypeScript software developer. I have experience working on a platform for selling assistance plans, a payment machine commissioning system, and a mobile app that matches people needing caregivers with qualified professionals.
+</p>
 
 <h1 align="center">About me</h1>
 <p>
-Hi, I'm a young passionate programmer with a love for math and computers. If you're looking for a skilled developer, feel free to connect with me on LinkedIn or drop me an email!
+I'm easygoing, empathetic, and enjoy mentoring less experienced developers. While I tend to be shy and quiet at first, I open up and interact more as I get to know people.
+When it comes to projects, I question everything, offering constructive criticism and always proposing solutions to improve things.
+On a more personal note, I'm a nerd at heart who loves video games, reading, math, anime, working out, and, of course, good food (who doesn’t?).
 </p>
 
 Let's connect:
