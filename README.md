@@ -2,7 +2,7 @@
 
 <h1 align="center">About my carreer</h1>
 <p>
-I have been programming for about 7 years, 4 of which I have worked as a web Node.js and TypeScript software developer. I have experience working on a platform for selling assistance plans, a payment machine commissioning system, and a mobile app that matches people needing caregivers with qualified professionals.
+I have been programming for about 7 years, 4 of which I have worked as a web Node.js and TypeScript software developer. I have experience working on a platform for selling assistance plans, a payment machine commissioning system, and a mobile app that matches... well, used to match people needing caregivers with qualified professionals.
 </p>
 
 <h1 align="center">About me</h1>
