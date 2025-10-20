@@ -19,7 +19,7 @@ this guy will help you a lot if you're a weirdo/nerd, and remember that no one h
   
 [The healthy gamer](https://www.youtube.com/@HealthyGamerGG)
 
-20/10/2025 - Actually it was a Meltdownm, just discovered I have autism
+20/10/2025 - Actually it was a Meltdown, just discovered I have autism
 </p>
 
 
