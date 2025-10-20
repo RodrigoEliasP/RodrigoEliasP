@@ -12,12 +12,14 @@ When it comes to projects, I question everything, offering constructive criticis
 On a more personal note, I'm a nerd at heart who loves video games, reading, math, anime, working out, and, of course, good food (who doesn’t?).
 </p>
 
-<h1 align="center">Had a fucked'up burnout near my 22 - YO 2025 birthday</h1>
+<h1 align="center">Had a burnout near my 22 - YO 2025 birthday</h1>
 <p>
 Learn to be aware of your mental health and tiredness by YOURSELF
 this guy will help you a lot if you're a weirdo/nerd, and remember that no one has the key to success, neither I nor any CEO/CTO or the fuck O you follow
   
 [The healthy gamer](https://www.youtube.com/@HealthyGamerGG)
+
+20/10/2025 - Actually it was a Meltdownm, just discovered I have autism
 </p>
 
 
